@@ -1,1 +1,1 @@
-market://details?id=com.pumpkinpanic.farmingsimulator.horrorfarming
+https://play.google.com/store/apps/details?id=com.pumpkinpanic.farmingsimulator.horrorfarming
