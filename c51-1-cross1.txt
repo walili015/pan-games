@@ -1,1 +1,1 @@
-market://details?id=com.kiddiekode.whosyourdaddyandbaby
+market://details?id=com.pumpkinpanic.farmingsimulator.horrorfarming
