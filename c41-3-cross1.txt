@@ -1,1 +1,0 @@
-market://details?id=com.frs.wildanimal.cheetah.simulator
